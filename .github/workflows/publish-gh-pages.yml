@@ -1,4 +1,4 @@
-name: Publish Blazor App to GitHub Pages
+name: Publish Blazor App to GitHub Pages.
 
 on:
   workflow_dispatch: 
